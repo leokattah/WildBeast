@@ -11,6 +11,6 @@ O projeto foi feito com HTML e CSS Grid. Foram usados conceitos básicos e avan�
 ### Créditos
 Agradeço a [Origamid](https://www.origamid.com/cursos/) que oferece ótimos cursos sobre front-end! ❤
 
-Quem quisere conferir o projeto no navegador é só acessar: https://leokattah.github.io/wildBeast/
+Quem quisere conferir o projeto no navegador é só acessar: https://leokattah.github.io/WildBeast/
 
 ![wildbeast](https://user-images.githubusercontent.com/64365302/112539556-e793e080-8d8f-11eb-8b32-bbeadf542e95.png)
